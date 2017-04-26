@@ -8,7 +8,7 @@ class App extends React.Component {
   }
    render() {
      setTimeout(()=>{
-      this.setState({name:"heema"})
+      this.setState({name:"kishore"})
      },1000)
       return (
         <div>
